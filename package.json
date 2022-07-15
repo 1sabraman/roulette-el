@@ -1,0 +1,26 @@
+{
+  "name": "react-router-basic-forked",
+  "version": "0.0.0",
+  "description": "A simple example deployed using react-codesandboxer",
+  "main": "index.js",
+  "dependencies": {
+    "@tanstack/react-table": "8.2.6",
+    "react": "latest",
+    "react-beautiful-dnd": "13.1.0",
+    "react-custom-roulette": "1.2.0",
+    "react-dom": "latest",
+    "react-icons": "4.4.0",
+    "react-router-dom": "^5.3.0",
+    "react-scripts": "latest",
+    "uuid": "8.3.2"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
